@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blurrface/Рабочий стол/Project/IrregularZBuffer_test/dependencies/include/Hydra/HydraVSGFExport.cpp
+HydraVSGFExport.h
+/home/blurrface/Рабочий стол/Project/IrregularZBuffer_test/dependencies/include/Hydra/HydraVSGFExport.h
+fstream
+-
+sstream
+-
+
+/home/blurrface/Рабочий стол/Project/IrregularZBuffer_test/dependencies/include/Hydra/HydraVSGFExport.h
+vector
+-
+string
+-
+map
+-
+cstring
+-
+cstdint
+-
+
